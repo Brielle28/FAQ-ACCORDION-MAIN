@@ -10,7 +10,7 @@ const Accordion = () => {
           className="w-full h-full mt-[-200px]"
           alt="background"
         />
-        <div className="absolute mt-[180px]">
+        <div className="absolute flex items-center justify-center mt-[250px] w-[70%]">
           <Main />
         </div>
       </div>
