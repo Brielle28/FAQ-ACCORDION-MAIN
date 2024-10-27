@@ -1,4 +1,3 @@
-Sure! Here's the updated `README.md` file with a proper project title and description:
 
 ```markdown
 # FAQ Accordion Component
