@@ -1,5 +1,4 @@
 
-```markdown
 # FAQ Accordion Component
 
 A sleek and responsive FAQ section built with React, styled using Tailwind CSS and enhanced with DaisyUI components. This component features an accordion interface that allows users to expand and collapse questions and answers seamlessly.
